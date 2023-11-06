@@ -1,3 +1,3 @@
 import * as React from "react";
-export * from "./Button";
-export * from "./Header";
+export * from "./components/button";
+export * from "./components/header";
